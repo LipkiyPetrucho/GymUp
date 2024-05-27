@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0611c53-1b15-4adb-9e75-d92c80f61722" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GymUp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/courses/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/courses/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/courses/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/courses/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/courses/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/courses/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/courses/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/gymup/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/gymup/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/gymup/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/gymup/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/gymup/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gymup/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="c0611c53-1b15-4adb-9e75-d92c80f61722" name="Changes" comment="start project GymUp. Models be added in app courses" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,9 +48,28 @@
       <option name="presentableId" value="Default" />
       <updated>1716718637071</updated>
     </task>
+    <task id="LOCAL-00001" summary="start project GymUp. Models be added in app courses">
+      <option name="closed" value="true" />
+      <created>1716759693464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716759693464</updated>
+    </task>
+    <task id="LOCAL-00002" summary="start project GymUp. Models be added in app courses">
+      <option name="closed" value="true" />
+      <created>1716759812183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716759812183</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="start project GymUp. Models be added in app courses" />
+    <option name="LAST_COMMIT_MESSAGE" value="start project GymUp. Models be added in app courses" />
   </component>
 </project>
