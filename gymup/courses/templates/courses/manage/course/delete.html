@@ -1,10 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends "base.html" %}
 
-</body>
-</html>
+{% block title %}Удалить курс{% endblock %}
+
+{% block content %}
+    <h1>Удалить курс "{{ object.title }}"</h1>
+    <div class="module">
+        <form action="" method="post">
+          {% csrf_token %}
+          <p>Вы уверены, что хотите удалить "{{ object }}"?</p>
+          <input type="submit" value="Подтвердить">
+        </form>
+    </div>
+{% endblock %}
